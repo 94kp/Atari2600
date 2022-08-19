@@ -10,5 +10,5 @@ Command for execution:
 
 dasm <filename>.asm -f -v0 -ocart.bin
 
-I'm using the stella emulator for running the programs I write  
+I'm using stella as well as the javatari emulator for running the programs I write.
   
